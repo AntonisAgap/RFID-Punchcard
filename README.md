@@ -1,2 +1,3 @@
 # rfid_punchcard
-A CLI RFID punchard-type application I made for a friend. It uses a Raspberry with a RFID RC522 Chip to read RFID data
+A Python CLI RFID punchard-type application. It uses a Raspberry with a RFID RC522 Chip to read RFID data to clock work hours of employees.
+The database that was used for this project was the NoSQL MongoDB.
